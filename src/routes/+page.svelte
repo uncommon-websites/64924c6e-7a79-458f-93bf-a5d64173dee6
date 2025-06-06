@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+  label="Trusted by industry leaders"
+  logoUrls={[
+    'https://logo.clearbit.com/dangote.com',
+    'https://logo.clearbit.com/jumia.com',
+    'https://logo.clearbit.com/shoprite.com.ng',
+    'https://logo.clearbit.com/ecobank.com'
+  ]}
+/>
 
 <Summary
 	generating
